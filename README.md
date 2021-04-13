@@ -1,6 +1,7 @@
 # dice_web_app
-Dice rolling web app created using HTML, CSS, JavaScript 
-Created through Dr. Angela's Udemy Web Development Course 
+Dice rolling web app created using HTML, CSS, JavaScript.
+
+Created while completing Dr. Angela's Udemy Web Development Course 
 
 ![App Screenshot](/Cap4.JPG "Screenshot")
 
